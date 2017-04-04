@@ -1,0 +1,8 @@
+--------------------------------------------------------
+--  Constraints for Table SS2K5_TABLES
+--------------------------------------------------------
+
+  ALTER TABLE "HISRHAMZEH"."SS2K5_TABLES" MODIFY ("TYPE" NOT NULL ENABLE);
+  ALTER TABLE "HISRHAMZEH"."SS2K5_TABLES" MODIFY ("SCHEMA_ID" NOT NULL ENABLE);
+  ALTER TABLE "HISRHAMZEH"."SS2K5_TABLES" MODIFY ("OBJECT_ID" NOT NULL ENABLE);
+  ALTER TABLE "HISRHAMZEH"."SS2K5_TABLES" MODIFY ("NAME" NOT NULL ENABLE);
